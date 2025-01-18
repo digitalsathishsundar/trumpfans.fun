@@ -11,7 +11,7 @@ Together, we’re showcasing the power of decentralization while upholding the s
 ## 🌍 Website
 Our platform is publicly hosted and accessible on **Vercel**, providing a seamless and user-friendly experience.  
 
-🔗 [Visit Our Website](https://your-vercel-site-link.com)
+🔗 [Visit Our Website] (https://trumpfans.fun/)
 
 ## ✨ Key Features
 - **Countdown to Inauguration Day:** January 20, 2025 – A new era for America!
